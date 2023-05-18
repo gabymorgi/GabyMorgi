@@ -26,10 +26,9 @@
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer"> 
     <img
-      style="background-color: white"
       width="48px"
       height="48px"
-      src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg"
+      src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4"
       alt="Prisma"
     />
   </a>
@@ -43,10 +42,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
     <img
-      style="background-color: white"
       width="48px"
       height="48px"
-      src="https://img.icons8.com/color/48/000000/nodejs.png"
+      src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo-black-and-white.png"
       alt="Node.js"
     />
   </a>
@@ -73,10 +71,9 @@
   </a>
   <a href="https://unity.com" target="_blank" rel="noopener noreferrer">
     <img
-      style="background-color: white"
       width="48px"
       height="48px"
-      src="https://img.icons8.com/ios-filled/50/000000/unity.png"
+      src="https://www.citypng.com/public/uploads/preview/unity-white-logo-icon-png-11663347637u87rvlltwq.png?v=2023050201"
       alt="Unity"
     />
   </a>
