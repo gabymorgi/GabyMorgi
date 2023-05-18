@@ -26,6 +26,7 @@
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer"> 
     <img
+      style="background-color: white"
       width="48px"
       height="48px"
       src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg"
@@ -42,6 +43,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
     <img
+      style="background-color: white"
       width="48px"
       height="48px"
       src="https://img.icons8.com/color/48/000000/nodejs.png"
@@ -71,6 +73,7 @@
   </a>
   <a href="https://unity.com" target="_blank" rel="noopener noreferrer">
     <img
+      style="background-color: white"
       width="48px"
       height="48px"
       src="https://img.icons8.com/ios-filled/50/000000/unity.png"
@@ -94,7 +97,6 @@
 <p>
   <a href="https://www.youtube.com/watch?v=YU1uqGt966E">Video (in spanish)</a>
 </p>
-
 
 <!--
 **gabymorgi/GabyMorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
