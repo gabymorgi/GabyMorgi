@@ -84,7 +84,7 @@
 <h3>Web app to track playtime on Steam</h3>
 
 <p>
-  <a href="https://gabymorgi-games.netlify.app/">Website</a>
+  <a href="https://gabymorgi-game-tracker.netlify.app/">Website</a>
 </p>
 
 <h3>
