@@ -88,7 +88,7 @@
 </p>
 
 <h3>
-  Explainer video showcasing a project with game implementation and Minimax AI
+  Explainer video showcasing a game implementation and Minimax AI
 </h3>
 
 <p>
