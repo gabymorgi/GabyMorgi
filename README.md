@@ -81,6 +81,19 @@
 
 <h2>Featured Projects</h2>
 
+<h3>Web app to make Hypocycloid</h3>
+
+<img
+  width="450px"
+  height="100px"
+  src="https://mathworld.wolfram.com/images/gifs/hypocr.gif"
+  alt="Hypocycloids"
+/>
+
+<p>
+  <a href="https://gabymorgi.github.io/spirograph-2.0/">Website</a>
+</p>
+
 <h3>Web app to track playtime on Steam</h3>
 
 <p>
